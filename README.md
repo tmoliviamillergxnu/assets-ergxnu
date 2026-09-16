@@ -1,0 +1,2 @@
+# assets-ergxnu
+static assets
